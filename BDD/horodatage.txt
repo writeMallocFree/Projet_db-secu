@@ -1,0 +1,5 @@
+Format des fichiers db :
+    - {jours}{mois}{année}.{extention de la bdd}
+
+Exemple :
+    29032026.db
